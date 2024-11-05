@@ -1,0 +1,4 @@
+body {
+    color: black;
+    background-color: color-mix(in hwb longer hue, color 45%, color 67%);
+}
